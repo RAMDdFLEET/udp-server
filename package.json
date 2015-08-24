@@ -1,0 +1,22 @@
+{
+  "name": "udp-server",
+  "version": "1.0.0",
+  "description": "listen and receive UDP messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RAMDdFLEET/udp-server.git"
+  },
+  "keywords": [
+    "UDP"
+  ],
+  "author": "ramd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RAMDdFLEET/udp-server/issues"
+  },
+  "homepage": "https://github.com/RAMDdFLEET/udp-server"
+}
